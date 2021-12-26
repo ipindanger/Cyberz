@@ -113,9 +113,9 @@ async def repo_is_here(wannasee):
         "__Durable as a Cyber__\n"
         "                      \n"
         "• **Cyber version** : `Master`\n"
-        "• **license** : [GNU GPL v3.0](https://github.com/ythm00/Cyber/blob/master/LICENSE)\n"
-        "• **copyright** : [ythm00](https://github.com/ythm00)\n"
-        "• **repo** : [Cyber](https://github.com/ythm00/Cyber)"
+        "• **license** : [GNU GPL v3.0](https://github.com/ipindanger/Cyberz/blob/master/LICENSE)\n"
+        "• **copyright** : [Cyber](https://github.com/ythm00)\n"
+        "• **repo** : [Cyberz](https://github.com/ipindanger/Cyberz)"
     )
 
 
