@@ -3,7 +3,7 @@
 FROM irhamfadzillah/cyber:buster
 
 # Clone repo and prepare working directory
-RUN git clone -b master https://github.com/ythm00/Cyber /home/cyber/ \
+RUN git clone -b master https://github.com/ipindanger/Cyberz /home/cyber/ \
     && chmod 777 /home/cyber \
     && mkdir /home/cyber/bin/
 
