@@ -1,6 +1,6 @@
-# Cyber Userbot
+# Bismillah Userbot
 
-![Cyber](https://telegra.ph/file/b05a86dc5adafcd3de0cc.gif)
+![Cyber](https://telegra.ph/file/decd3921b380f7550a09c.jpg)
 
 <p align="center">
     <a href="https://app.codacy.com/gh/BianSepang/WeebProject/dashboard"> <img src="https://img.shields.io/codacy/grade/a723cb464d5a4d25be3152b5d71de82d?color=blue&logo=codacy&style=flat-square" alt="Codacy" /></a><br>
@@ -34,7 +34,7 @@ based on [ProjectBish](https://github.com/adekmaulana/ProjectBish) Userbot
 ## Deploy
 ### Heroku
 Click this button below to Deploy to Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ythm00/Cyber/tree/master"> <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ipindanger/Cyberz/tree/master"> <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku"/></a></p>
 
 ### "Bare hands", using Git and Python3 -- on (Linux, macOS, and Android [via Termux])
 1. Clone this repository on your local machine and `cd` (or `chdir`, anti bloat guy) to it
@@ -67,7 +67,7 @@ Click this button below to Deploy to Heroku
 * [Alfianandaa](https://github.com/alfianandaa) - ProjectAlf
 * [GengKapak](https://github.com/GengKapak) - DCLXVI
 
-and [everyone](https://github.com/ythm00/Cyber/graphs/contributors) that makes this userbot awesome :D
+and [everyone](https://github.com/ipindanger/Cyberz/graphs/contributors) that makes this userbot awesome :D
 
 ## License
-Licensed under [Raphielscape Public License](https://github.com/ythm00/Cyber/blob/master/LICENSE) - Version 1.d, February 2020
+Licensed under [Raphielscape Public License](https://github.com/ipindanger/Cyberz/blob/master/LICENSE) - Version 1.d, February 2020
